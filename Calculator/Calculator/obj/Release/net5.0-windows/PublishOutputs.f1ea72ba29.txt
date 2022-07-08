@@ -1,0 +1,5 @@
+C:\Users\PC\OneDrive\Картини\Работен плот\programing\Calculator\Calculator\bin\publish\Calculator.exe
+C:\Users\PC\OneDrive\Картини\Работен плот\programing\Calculator\Calculator\bin\publish\Calculator.dll
+C:\Users\PC\OneDrive\Картини\Работен плот\programing\Calculator\Calculator\bin\publish\Calculator.deps.json
+C:\Users\PC\OneDrive\Картини\Работен плот\programing\Calculator\Calculator\bin\publish\Calculator.runtimeconfig.json
+C:\Users\PC\OneDrive\Картини\Работен плот\programing\Calculator\Calculator\bin\publish\Calculator.pdb
